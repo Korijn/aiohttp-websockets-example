@@ -7,3 +7,5 @@ env/
 
 # PyCharm
 .idea/
+
+node_modules/

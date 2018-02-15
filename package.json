@@ -1,0 +1,23 @@
+{
+  "name": "aiohttp-websockets-example",
+  "version": "1.0.0",
+  "description": "aiohttp websocket example\r =========================",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "1.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Korijn/aiohttp-websockets-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Korijn/aiohttp-websockets-example/issues"
+  },
+  "homepage": "https://github.com/Korijn/aiohttp-websockets-example#readme"
+}
